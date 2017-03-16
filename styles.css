@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+#easel {
+    height: 100%;
+    width: 800px;
+    margin: auto;
+    border: 1px solid #AAA;
+    background-color: #EEE;
+}
+#main-canvas {
+    display: block; 
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    margin-top: 100px;
+    border: 1px solid #DDD;
+}
